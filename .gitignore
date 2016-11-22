@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/FSL.XF1/v14
+/FSL.XF1/FSL.XF1/bin/Debug
+/FSL.XF1/FSL.XF1/obj/Debug
+/FSL.XF1/FSL.XF1.Droid/bin/Debug
+/FSL.XF1/FSL.XF1.Droid/obj/Debug
+/FSL.XF1/FSL.XF1.iOS/obj/iPhone/Debug
+/packages
