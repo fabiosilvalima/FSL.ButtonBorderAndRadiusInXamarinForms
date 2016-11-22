@@ -31,7 +31,7 @@ What is the goal?
 
 Create a button using XAML to draw a rounded red border like that:
 
-![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/withcustomrender1.png?w=616)
+![XAML BUTTON](https://fabiosilvalima.files.wordpress.com/2016/11/withcustomrender1.png?w=616)
 
 **Assumptions:**
 - I am using XAML for simplicity. You don't need to know XAML at this point.
