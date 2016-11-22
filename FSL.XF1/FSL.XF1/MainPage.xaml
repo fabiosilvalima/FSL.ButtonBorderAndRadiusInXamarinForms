@@ -4,8 +4,15 @@
              xmlns:local="clr-namespace:FSL.XF1"
              x:Class="FSL.XF1.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <Button 
+        Text="Click Me" 
+        TextColor="Red" 
+        BackgroundColor="White" 
+        BorderColor="Red" 
+        BorderWidth="1" 
+        BorderRadius="3"
+        VerticalOptions="Center" 
+        HorizontalOptions="Center">
+    </Button>
 
 </ContentPage>
