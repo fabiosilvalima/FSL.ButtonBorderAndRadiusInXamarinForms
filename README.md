@@ -4,6 +4,8 @@
 
 f you program on ASP.NET Web Forms or even pure HTML you know when you need to change button border is very very very easy.
 
+![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/custom-button-border.png)
+
 BUT, in Xamarin Forms it’s another world.
 
 It’s become simple when you already know the solution..
@@ -31,7 +33,7 @@ What is the goal?
 
 Create a button using XAML to draw a rounded red border like that:
 
-![XAML BUTTON](https://fabiosilvalima.files.wordpress.com/2016/11/withcustomrender1.png?w=616)
+![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/11/withcustomrender1.png?w=616)
 
 **Assumptions:**
 - I am using XAML for simplicity. You don't need to know XAML at this point.

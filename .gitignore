@@ -10,3 +10,9 @@
 /FSL.XF1/FSL.XF1.iOS/obj/iPhone/Debug
 /packages
 /FSL.XF1/FSL.XF1.iOS/obj/iPhoneSimulator/Debug
+/FSL.XF1/FSL.XF1/bin/Release
+/FSL.XF1/FSL.XF1/obj/Release
+/FSL.XF1/FSL.XF1.Droid/obj/Release
+/FSL.XF1/FSL.XF1.iOS/bin
+/FSL.XF1/FSL.XF1.iOS/obj/iPhone/Release
+*.user
